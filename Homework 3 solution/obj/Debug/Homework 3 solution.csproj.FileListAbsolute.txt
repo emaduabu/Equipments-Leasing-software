@@ -1,0 +1,35 @@
+C:\Users\emaduabu\Documents\Visual Studio 2017\Projects\Homework 3 solution 1\Homework 3 solution\Homework 3 solution\bin\Debug\Homework 3 solution.exe.config
+C:\Users\emaduabu\Documents\Visual Studio 2017\Projects\Homework 3 solution 1\Homework 3 solution\Homework 3 solution\bin\Debug\Homework 3 solution.exe
+C:\Users\emaduabu\Documents\Visual Studio 2017\Projects\Homework 3 solution 1\Homework 3 solution\Homework 3 solution\bin\Debug\Homework 3 solution.pdb
+C:\Users\emaduabu\Documents\Visual Studio 2017\Projects\Homework 3 solution 1\Homework 3 solution\Homework 3 solution\obj\Debug\Homework_3_solution.Frm_Management_Report.resources
+C:\Users\emaduabu\Documents\Visual Studio 2017\Projects\Homework 3 solution 1\Homework 3 solution\Homework 3 solution\obj\Debug\Homework_3_solution.FrmEquipment_Lease_Reques.resources
+C:\Users\emaduabu\Documents\Visual Studio 2017\Projects\Homework 3 solution 1\Homework 3 solution\Homework 3 solution\obj\Debug\Homework_3_solution.FrmMechanical_dept.resources
+C:\Users\emaduabu\Documents\Visual Studio 2017\Projects\Homework 3 solution 1\Homework 3 solution\Homework 3 solution\obj\Debug\Homework_3_solution.FrmOperations_dept.resources
+C:\Users\emaduabu\Documents\Visual Studio 2017\Projects\Homework 3 solution 1\Homework 3 solution\Homework 3 solution\obj\Debug\Homework_3_solution.Properties.Resources.resources
+C:\Users\emaduabu\Documents\Visual Studio 2017\Projects\Homework 3 solution 1\Homework 3 solution\Homework 3 solution\obj\Debug\Homework 3 solution.csproj.GenerateResource.Cache
+C:\Users\emaduabu\Documents\Visual Studio 2017\Projects\Homework 3 solution 1\Homework 3 solution\Homework 3 solution\obj\Debug\Homework 3 solution.exe
+C:\Users\emaduabu\Documents\Visual Studio 2017\Projects\Homework 3 solution 1\Homework 3 solution\Homework 3 solution\obj\Debug\Homework 3 solution.pdb
+C:\Users\emaduabu\Documents\Visual Studio 2017\Projects\Homework 3 solution 1\Homework 3 solution\Homework 3 solution\obj\Debug\Homework_3_solution.FrmMain.resources
+C:\Users\emaduabu\Documents\Visual Studio 2017\Projects\Homework 3 solution 1\Homework 3 solution\Homework 3 solution\obj\Debug\Homework 3 solution.csprojResolveAssemblyReference.cache
+C:\Users\BUCHI\Desktop\Homework 3 solution\Homework 3 solution\Homework 3 solution\obj\Debug\Homework_3_solution.FrmLogin.resources
+C:\Users\BUCHI\Desktop\Homework 3 solution\Homework 3 solution\Homework 3 solution\obj\Debug\Homework_3_solution.FrmMain.resources
+C:\Users\BUCHI\Desktop\Homework 3 solution\Homework 3 solution\Homework 3 solution\obj\Debug\Homework_3_solution.Frm_Management_Report.resources
+C:\Users\BUCHI\Desktop\Homework 3 solution\Homework 3 solution\Homework 3 solution\obj\Debug\Homework_3_solution.FrmEquipment_Lease_Reques.resources
+C:\Users\BUCHI\Desktop\Homework 3 solution\Homework 3 solution\Homework 3 solution\obj\Debug\Homework_3_solution.FrmMain2.resources
+C:\Users\BUCHI\Desktop\Homework 3 solution\Homework 3 solution\Homework 3 solution\obj\Debug\Homework_3_solution.FrmMechanical_dept.resources
+C:\Users\BUCHI\Desktop\Homework 3 solution\Homework 3 solution\Homework 3 solution\obj\Debug\Homework_3_solution.FrmOperations_dept.resources
+C:\Users\BUCHI\Desktop\Homework 3 solution\Homework 3 solution\Homework 3 solution\obj\Debug\Homework_3_solution.FrmContactPanel.resources
+C:\Users\BUCHI\Desktop\Homework 3 solution\Homework 3 solution\Homework 3 solution\obj\Debug\Homework_3_solution.Properties.Resources.resources
+C:\Users\BUCHI\Desktop\Homework 3 solution\Homework 3 solution\Homework 3 solution\obj\Debug\Homework 3 solution.csproj.GenerateResource.Cache
+C:\Users\BUCHI\Desktop\Homework 3 solution\Homework 3 solution\Homework 3 solution\obj\Debug\Homework 3 solution.csproj.CoreCompileInputs.cache
+C:\Users\BUCHI\Desktop\Homework 3 solution\Homework 3 solution\Homework 3 solution\bin\Debug\Homework 3 solution.exe.config
+C:\Users\BUCHI\Desktop\Homework 3 solution\Homework 3 solution\Homework 3 solution\bin\Debug\Homework 3 solution.exe
+C:\Users\BUCHI\Desktop\Homework 3 solution\Homework 3 solution\Homework 3 solution\bin\Debug\Homework 3 solution.pdb
+C:\Users\BUCHI\Desktop\Homework 3 solution\Homework 3 solution\Homework 3 solution\obj\Debug\Homework 3 solution.exe
+C:\Users\BUCHI\Desktop\Homework 3 solution\Homework 3 solution\Homework 3 solution\obj\Debug\Homework 3 solution.pdb
+C:\Users\BUCHI\Desktop\Homework 3 solution\Homework 3 solution\Homework 3 solution\obj\Debug\Homework 3 solution.csprojResolveAssemblyReference.cache
+C:\Users\BUCHI\Desktop\Homework 3 solution\Homework 3 solution\Homework 3 solution\obj\Debug\Homework_3_solution.FrmInventory.resources
+C:\Users\BUCHI\Desktop\Homework 3 solution\Homework 3 solution\Homework 3 solution\obj\Debug\Homework_3_solution.FrmEquipment.resources
+C:\Users\BUCHI\Desktop\Homework 3 solution\Homework 3 solution\Homework 3 solution\obj\Debug\Homework_3_solution.FrmCustomerdetails.resources
+C:\Users\BUCHI\Desktop\Homework 3 solution\Homework 3 solution\Homework 3 solution\obj\Debug\Homework_3_solution.FrmUpdateEquipment.resources
+C:\Users\BUCHI\Desktop\Homework 3 solution\Homework 3 solution\Homework 3 solution\obj\Debug\Homework_3_solution.FrmSYS.resources
